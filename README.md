@@ -1,6 +1,6 @@
 IT PROJECT PORTFOLIO
-Portfolio of my IT project work, 
-includes documentation of workflows and learning curves throughout my with the projects.
+Display of my most recent projects, 
+includes documentation of workflows and learning curves throughout my experience with the projects.
 
 Active Directory labs
 
